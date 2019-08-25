@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body, html{
+    height: 100%;
+}
+.navv{
+    padding-left: 600px;
+}
+.lead{
+    align-content: center;
+    align-items: center;
+    background-color: grey;
+}
+.ftt{
+    background-color: black;
+    text-decoration-color: white;
+}
